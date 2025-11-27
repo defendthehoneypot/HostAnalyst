@@ -3,7 +3,7 @@
 This repository contains a complete training program for Windows host analysts, focused on:
 
 - **Offline analysis** of exported logs and artifacts using public EVTX samples  
-- **Online analysis** of live systems in an enterprise-like cyber range  
+- **Online analysis** of live systems in an enterprise
 
 It is designed for incident response, threat hunting, and DFIR teams.
 
